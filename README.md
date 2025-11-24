@@ -33,8 +33,6 @@ of each Attribute, ”Amount” is the amount of each transaction, and the final
 <br>
 <br>
 <b>Dataset: </b>
-<a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud">kaggle Dataset</a>
-
 <br>
 <br>
 
